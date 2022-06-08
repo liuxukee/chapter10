@@ -5,5 +5,6 @@ public class test01 {
         System.out.println("测试");
         System.out.println("master");
         System.out.println("dev");
+        System.out.println("push");
     }
 }
